@@ -11,7 +11,7 @@ on:
     - main
 
   schedule:
-    - cron:  '*/5 * * * *'      #### 60mins
+    - cron:  '*/10 * * * *'      #### 60mins
 
 
 
